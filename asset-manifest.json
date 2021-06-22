@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mavgitt.github.io/csb-1v5hc/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://mavgitt.github.io/csb-1v5hc/static/js/main.c5f61bdd.chunk.js",
+    "main.js.map": "https://mavgitt.github.io/csb-1v5hc/static/js/main.c5f61bdd.chunk.js.map",
+    "runtime-main.js": "https://mavgitt.github.io/csb-1v5hc/static/js/runtime-main.c5ebfa93.js",
+    "runtime-main.js.map": "https://mavgitt.github.io/csb-1v5hc/static/js/runtime-main.c5ebfa93.js.map",
+    "static/js/2.2350909c.chunk.js": "https://mavgitt.github.io/csb-1v5hc/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://mavgitt.github.io/csb-1v5hc/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://mavgitt.github.io/csb-1v5hc/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://mavgitt.github.io/csb-1v5hc/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://mavgitt.github.io/csb-1v5hc/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5ebfa93.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.c5f61bdd.chunk.js"
+  ]
+}
